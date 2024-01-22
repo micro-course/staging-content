@@ -1,0 +1,3 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/micro-course/content-schema/dev/schemas/manifest.schema.json
+courses:
+  - "./courses/test-course-1/course.yaml"
