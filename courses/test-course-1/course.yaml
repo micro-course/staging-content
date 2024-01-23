@@ -6,4 +6,4 @@ description: |
   - Пункт 1
   - Пункт 2
 lessons:
-  - "lessons/lesson-1.yaml"
+  - "lesson-1"
