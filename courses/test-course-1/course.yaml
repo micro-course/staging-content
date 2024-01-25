@@ -1,9 +1,11 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/micro-course/content-schema/dev/schemas/course.schema.json
 id: "clrn5jzvs00000bigaeju9ofi"
-title: "Название курса"
+title: "Название курсаааа"
 description: |
-  Описание курса в формате Markdown:
+  ## Описание курса в формате Markdown:
   - Пункт 1
   - Пункт 2
+  - Пункт 3
+  - Пункт [4](https://google.com)
 lessons:
   - "lesson-1"
