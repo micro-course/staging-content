@@ -1,0 +1,10 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/micro-course/content-schema/main/schemas/course.schema.json
+id: "clru974qg00005vigb5asenka"
+title: "Test 2 course"
+description: |
+  ## Course the best
+  - 1
+  - 2 
+  - [3](http://google.com)
+lessons:
+  - "lesson-1"
