@@ -1,0 +1,44 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/micro-course/content-schema/main/schemas/lesson.schema.json
+id: "test-course-1_lesson-2"
+title: "Урок с видео"
+shortDescription: |
+  Вопрос открытый.
+
+  Были бы мы классными поциками, fa;slkdfja;slkdfja;sldkfja; sldkfjasdklfja;slkdjfa;s kldjfa;slkdjfa;skdjfk;adsjf
+  - sdf
+  - sdf
+  - sdf
+
+  то играли бы в прядки, а так рубим бабосики
+
+blocks:
+  - type: "text"
+    id: "test-course-1_lesson-2_block-1"
+    text: |
+
+      <Player url="https://www.youtube.com/watch?v=7m0UyCjfNgM" />
+
+      ## Что будем сегодня изучать
+
+      Вопрос открытый.
+      Были бы мы классными поциками, то играли бы в прядки, а так рубим бабосики
+
+  - type: "text"
+    id: "test-course-1_lesson-2_block-2"
+    text: |
+      ## Введение в продвинутое программирование на Python
+
+      В этом разделе мы погрузимся в продвинутые темы программирования на Python, включая:
+      - ООП (Объектно-ориентированное программирование)
+      - Работа с базами данных
+      - Многопоточность и асинхронное программирование
+
+  - type: "text"
+    id: "test-course-1_lesson-2_block-3"
+    text: |
+      ## Введение в продвинутое программирование на Python
+
+      В этом разделе мы погрузимся в продвинутые темы программирования на Python, включая:
+      - ООП (Объектно-ориентированное программирование)
+      - Работа с базами данных
+      - Многопоточность и асинхронное программирование

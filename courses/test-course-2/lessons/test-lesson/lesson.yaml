@@ -1,0 +1,24 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/micro-course/content-schema/main/schemas/lesson.schema.json
+id: "test-course-2_test-lesson"
+title: "Продвинутое программирование на Python"
+blocks:
+  - type: "text"
+    id: "test-course-2_test-lesson_block-1"
+    text: |
+
+      <NextImage width="500" height="500" src="https://s3.timeweb.com/132514fc-images-staging/content/lautaro-andreani-UYsBCu9RP3Y-unsplash.jpg"/>
+
+      ## Что будем сегодня изучать
+
+      Вопрос открытый.
+      Были бы мы классными поциками, то играли бы в прядки, а так рубим бабосики
+
+  - type: "text"
+    id: "test-course-2_test-lesson_block-2"
+    text: |
+      ## Введение в продвинутое программирование на Python
+
+      В этом разделе мы погрузимся в продвинутые темы программирования на Python, включая:
+      - ООП (Объектно-ориентированное программирование)
+      - Работа с базами данных
+      - Многопоточность и асинхронное программирование
